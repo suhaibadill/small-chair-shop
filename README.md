@@ -10,9 +10,7 @@ Check it live: [Small Chair Shop](https://suhaibadill.github.io/small-chair-shop
 ---
 
 ## 🖼 Screenshot
-![Landing Page Screenshot](images/landing-page-screenshot.png)
-
-*Replace with your actual screenshot if needed.*
+<img src="images/landing-page-screenshot.png" alt="Landing Page Screenshot" width="600">
 
 ---
 
